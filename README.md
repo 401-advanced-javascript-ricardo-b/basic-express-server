@@ -36,3 +36,6 @@
 - Describe any tests that you did not complete, skipped, etc
   - app.listen needs a test
 
+#### UML
+
+![UML](assets/lab02-uml.png)
