@@ -6,8 +6,9 @@
 
 ### Links and Resources
 
-- [ci/cd]() (GitHub Actions)
-- [Heroku Production Deployment](https://ricardob-server-deploy-prod.herokuapp.com/)
+- [ci/cd](https://github.com/401-advanced-javascript-ricardo-b/basic-express-server/actions) (GitHub Actions)
+- [Heroku Production Deployment](https://ricardob-basic-express-server.herokuapp.com/?name=Ricardo)
+- [Pull request](https://github.com/401-advanced-javascript-ricardo-b/basic-express-server/pull/1)
 
 ### Setup
 
